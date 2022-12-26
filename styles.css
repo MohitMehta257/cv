@@ -95,6 +95,13 @@ body{
   float: left;
   margin-right: 30px;
 }
+
+.Bootstrap{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
 .desc{
   font-size:18px;
 }
